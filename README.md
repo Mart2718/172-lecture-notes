@@ -15,6 +15,7 @@ One repo, one Netlify site. Every set lives in its own folder.
 | `te2/` | Verifying Trigonometric Identities (TE2) | 4.4.2 |
 | `te3/` | Solving Trigonometric Equations (TE3) | 4.4.3 |
 | `pr3/` | Graphs of Polynomial Functions (PR3) | 5.1.1 |
+| `pr4/` | Polynomial Long Division (PR4) | 5.2.1 |
 
 Each folder holds:
 - `index.html`: the notes page (single file, works offline)
